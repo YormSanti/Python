@@ -1,0 +1,11 @@
+2025-03-19 19:37:12,390 - INFO - Added contact: santi, 011256124, yormsanti38@gimail.com
+2025-03-19 19:37:57,016 - INFO - Deleted contact: santi
+2025-03-19 19:41:11,268 - INFO - Added contact: a, 011256124, 
+2025-03-26 15:26:07,185 - INFO - Added contact: 1, 111, 1
+2025-04-25 19:33:14,725 - INFO - Added contact: santi, 011256124, 
+2025-04-25 19:33:33,748 - INFO - Updated contact: {'name': '1', 'phone': '1', 'email': 'no'}
+2025-04-28 20:42:42,504 - INFO - Added contact: santi, 011256124, yormsanti@gmail
+2025-04-29 13:29:14,562 - INFO - Deleted contact: santi
+2025-04-29 13:29:42,268 - INFO - Deleted contact: a
+2025-04-29 13:29:48,125 - INFO - Deleted contact: 1
+2025-04-29 13:30:29,968 - INFO - Added contact: Santi, 011256124, yormsanti38@gmail.com
