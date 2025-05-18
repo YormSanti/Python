@@ -13,7 +13,6 @@ def get_float_input(prompt):
 
 
 
-
 def main():
     while True:
         print("1.Enter your name")
